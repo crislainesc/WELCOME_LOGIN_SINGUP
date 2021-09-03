@@ -1,6 +1,6 @@
 # Welcome, Login e SingUp
 
-Um projeto em flutter com uma três páginas:
+Um projeto em flutter com três páginas:
 
 - Welcome: Página Inicial,
 
